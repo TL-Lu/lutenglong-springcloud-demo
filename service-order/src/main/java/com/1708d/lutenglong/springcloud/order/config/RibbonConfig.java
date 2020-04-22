@@ -1,4 +1,4 @@
-package com.lutenglong.config;
+package com.lutenglong_order.config;
 
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RandomRule;

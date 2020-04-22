@@ -1,7 +1,7 @@
-package com.lutenglong.controller;
+package com.lutenglong_user.controller;
 
 import com.lutenglong.entity.User;
-import com.lutenglong.service.UserService;
+import com.lutenglong_user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

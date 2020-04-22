@@ -1,7 +1,7 @@
-package com.lutenglong.service.imp;
+package com.lutenglong_order.service.imp;
 
 import com.lutenglong.entity.Order;
-import com.lutenglong.service.OrderService;
+import com.lutenglong_order.service.OrderService;
 import org.springframework.stereotype.Service;
 
 @Service

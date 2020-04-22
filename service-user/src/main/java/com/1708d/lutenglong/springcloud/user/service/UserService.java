@@ -1,4 +1,4 @@
-package com.lutenglong.service;
+package com.lutenglong_user.service;
 
 import com.lutenglong.entity.User;
 import org.springframework.stereotype.Service;

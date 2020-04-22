@@ -1,7 +1,7 @@
-package com.lutenglong.service.imp;
+package com.lutenglong_user.service.imp;
 
 import com.lutenglong.entity.User;
-import com.lutenglong.service.UserService;
+import com.lutenglong_user.service.UserService;
 import org.springframework.stereotype.Service;
 
 @Service
